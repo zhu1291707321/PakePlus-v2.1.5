@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- 背景 -->
+  <rect x="2" y="2" width="28" height="28" rx="6" fill="#409eff"/>
+  
+  <!-- 任务列表项 -->
+  <!-- 第一项 - 已完成 -->
+  <circle cx="8" cy="10" r="2" fill="#ffffff"/>
+  <path d="M6.5 10l1 1 2-2" stroke="#409eff" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <rect x="13" y="9" width="12" height="2" fill="#ffffff" opacity="0.8"/>
+  
+  <!-- 第二项 - 已完成 -->
+  <circle cx="8" cy="16" r="2" fill="#ffffff"/>
+  <path d="M6.5 16l1 1 2-2" stroke="#409eff" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <rect x="13" y="15" width="10" height="2" fill="#ffffff" opacity="0.8"/>
+  
+  <!-- 第三项 - 待完成 -->
+  <circle cx="8" cy="22" r="2" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  <rect x="13" y="21" width="8" height="2" fill="#ffffff" opacity="0.6"/>
+</svg> 
